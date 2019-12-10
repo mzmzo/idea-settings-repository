@@ -1,0 +1,46 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Successfully joined group with generation 14" />
+      <item value="PARAMS" />
+      <item value="Spring" />
+      <item value="because" />
+      <item value="AND" />
+      <item value="sign in" />
+      <item value="date" />
+      <item value="initialize" />
+      <item value="AREA linkage" />
+      <item value="ccm as sdlta" />
+      <item value="as tagdate" />
+      <item value="and a.tagdate" />
+      <item value="int" />
+      <item value="Preprocess" />
+      <item value="confidence" />
+      <item value="grade" />
+      <item value="strip Margin" />
+      <item value="interceptor" />
+      <item value="Attempts" />
+      <item value="total Elements" />
+      <item value="Commit cannot be completed since the group has already rebalanced and assigned the partitions to another member. This means that the time between subsequent calls to poll() was longer than the configured max.poll.interval.ms, which typically implies that the poll loop is spending too much time message processing. You can address this either by increasing the session timeout or by reducing the maximum size of batches returned in poll() with max.poll.records." />
+      <item value="WECHAT SERVICE hystrix" />
+      <item value="get" />
+      <item value="general" />
+      <item value="update Mongo Start" />
+      <item value="import" />
+      <item value="delay" />
+      <item value="fix" />
+      <item value="tat" />
+      <item value="Rest Exception" />
+      <item value="Undo Reformat Code" />
+      <item value="member System Entity" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="24" />
+        <entry key="IRISH" value="1" />
+        <entry key="MALTESE" value="1" />
+      </map>
+    </option>
+  </component>
+</application>

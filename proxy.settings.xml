@@ -1,0 +1,9 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="139.219.230.39" />
+    <option name="PROXY_PORT" value="55555" />
+    <option name="PROXY_AUTHENTICATION" value="true" />
+    <option name="KEEP_PROXY_PASSWORD" value="true" />
+    <option name="PROXY_EXCEPTIONS" value="localhost,127.*,10.*,172.16.*,172.17.*,172.18.*,172.19.*,172.20.*,172.21.*,172.22.*,172.23.*,172.24.*,172.25.*,172.26.*,172.27.*,172.28.*,172.29.*,172.30.*,172.31.*,172.32.*,192.168.*,*.qq.com,*.wechat.com,*.163.com,*.sina.com.cn,*.sohu.com,*.taobao.com,*.tmail.com,*.aliyun.com,*.dingtalk.com,*.baidu.com,*.hao123.com,*.360.cn,*.360.com,*.weibo.com,*.youku.com,*.zhihu.com,*.tudou.com,*.bing.com,*.soso.com,*.csdn.net,*.douban.com,*.jd.com,*.alibaba.com,*.github.com,*.shtouyun.com,*.aax6.cn" />
+  </component>
+</application>

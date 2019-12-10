@@ -1,0 +1,27 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="${project.basedir};*.hprof;*.idea;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;tx_ucode.iml;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="demo" type="PLAIN_TEXT" />
+      <mapping pattern="GenerateDataDictionaryTest" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="prizeCombination" type="PLAIN_TEXT" />
+      <mapping pattern="user" type="PLAIN_TEXT" />
+      <mapping pattern="plan" type="PLAIN_TEXT" />
+      <mapping pattern=".empty" type="PLAIN_TEXT" />
+      <mapping pattern="manage" type="PLAIN_TEXT" />
+      <mapping pattern="portrait" type="PLAIN_TEXT" />
+      <mapping pattern="probobilityPrize" type="PLAIN_TEXT" />
+      <mapping pattern="rights" type="PLAIN_TEXT" />
+      <mapping pattern="showdoc_api_demo" type="PLAIN_TEXT" />
+      <mapping pattern="field" type="PLAIN_TEXT" />
+      <mapping pattern="level" type="PLAIN_TEXT" />
+      <mapping pattern="planProbability" type="PLAIN_TEXT" />
+      <mapping pattern="tencentBsp" type="PLAIN_TEXT" />
+      <mapping pattern="award" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="Python" />
+    </extensionMap>
+  </component>
+</application>

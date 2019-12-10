@@ -1,0 +1,39 @@
+<application>
+  <component name="libraryTable">
+    <library name="jdk1.8">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/work/sdk/Java/jdk1.8.0_45" />
+      </SOURCES>
+      <jarDirectory url="file://D:/work/sdk/Java/jdk1.8.0_45" recursive="false" type="SOURCES" />
+    </library>
+    <library name="Python 3.6 (xpp) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Anaconda3/envs/xpp/DLLs" />
+        <root url="file://$USER_HOME$/Anaconda3/envs/xpp/Lib" />
+        <root url="file://$USER_HOME$/Anaconda3/envs/xpp" />
+        <root url="file://$USER_HOME$/Anaconda3/envs/xpp/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-1295026514" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/Anaconda3/envs/xpp/DLLs" />
+        <root url="file://$USER_HOME$/Anaconda3/envs/xpp/Lib" />
+        <root url="file://$USER_HOME$/Anaconda3/envs/xpp" />
+        <root url="file://$USER_HOME$/Anaconda3/envs/xpp/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-1295026514" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
